@@ -1,0 +1,4 @@
+let variable_name_second, another_variable;
+console.log("==========");
+console.log(variable_name_second);
+console.log(another_variable);
